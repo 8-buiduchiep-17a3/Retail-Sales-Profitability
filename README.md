@@ -129,8 +129,6 @@ These are hypotheses for further measurement or A/B testing, not claims of prove
 
 The dashboard is built from `Retail_Sales_Cleaned.csv` and includes KPI cards (Total Sales, Total Profit, Profit Margin %), monthly sales trend, sales and profit by category, sales by region, profit by discount level, and slicers for Segment and Region.
 
-![Retail Sales Profitability Dashboard](Retail%20Sales%20Profitability%20Analysis.png)
-
 ## Repository files
 
 | File | Description |
